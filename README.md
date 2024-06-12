@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola! Bienvenido a mi perfil 👋 mi nombre es Tobías del Castilo
+Soy estudiante de Ingenieria en Sistemas de Información en la Universidad Técnologica Nacional UTN-FRC y actualmente estoy estudiando Desarrollo Web FullStack!
 
-<!--
-**TobiasdelCastillo/TobiasdelCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
+Tengo 20 años, vivo en Córdoba, Argentina.
+Apasionado de la programación. Técnico Electronico.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Herramientas
+Python,
+C++,
+MikroC,
+Arduino,
+Linux,
+HTML5,
+CSS3,
+JS,
+Git,
