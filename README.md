@@ -17,5 +17,4 @@ JavaScript,
 TypeScript,
 React,
 Git,
-GitHub,
-Vercel
+GitHub
