@@ -5,7 +5,7 @@ Soy estudiante de Ingenieria en Sistemas de Información en la Universidad Técn
 Tengo 20 años, vivo en Córdoba, Argentina.
 Apasionado de la programación. Técnico Electronico.
 
-## Herramientas
+## Tecnologías y Herramientas
 Python,
 C++,
 MikroC,
@@ -13,5 +13,9 @@ Arduino,
 Linux,
 HTML5,
 CSS3,
-JS,
+JavaScript,
+TypeScript,
+React,
 Git,
+GitHub,
+Vercel
