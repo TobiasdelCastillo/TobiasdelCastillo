@@ -1,4 +1,4 @@
-## Hola! Bienvenido a mi perfil 👋 mi nombre es Tobías del Castilo
+## Hola! Bienvenido a mi perfil 👋 mi nombre es Tobías del Castillo
 Soy estudiante de Ingenieria en Sistemas de Información en la Universidad Técnologica Nacional UTN-FRC y actualmente estoy estudiando Desarrollo Web FullStack!
 
 ## Sobre Mí
