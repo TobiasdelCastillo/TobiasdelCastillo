@@ -1,20 +1,21 @@
-## Hola! Bienvenido a mi perfil 👋 mi nombre es Tobías del Castillo
-Soy estudiante de Ingenieria en Sistemas de Información en la Universidad Técnologica Nacional UTN-FRC y actualmente estoy estudiando Desarrollo Web FullStack!
+<h1 align="center">
+Hi, I'm Tobías del Castillo!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+Im a third year system engineering student at UTN - FRC Universidad Tecnológica Nacional.
 
-## Sobre Mí
-Tengo 20 años, vivo en Córdoba, Argentina.
-Apasionado de la programación. Técnico Electronico.
+## About Me
+21 yo, born and raised in Córdoba Argentina.
+I'm passionate about programming and driven by a constant desire to expand my knowledge.
+I'm also a certified Electronics Technician!
 
-## Tecnologías y Herramientas
-Python,
-C++,
-MikroC,
-Arduino,
-Linux,
-HTML5,
-CSS3,
-JavaScript,
-TypeScript,
-React,
-Git,
-GitHub
+## Technologies & Tools
+Programming Languages: Python, C++, JavaScript, TypeScript
+
+Frameworks & Tools: React, Git, GitHub, Arduino, MikroC
+
+Web Development: HTML5, CSS3
+
+Platforms: Linux
