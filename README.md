@@ -18,4 +18,4 @@ Frameworks & Tools: React, Git, GitHub, Arduino, MikroC
 
 Web Development: HTML5, CSS3
 
-Platforms: Linux
+Platforms: Windows, Linux
