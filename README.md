@@ -4,7 +4,7 @@ Hi, I'm Tobías del Castillo!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-Im a third year systems engineering student at UTN - FRC Universidad Tecnológica Nacional. 
+Im a third-year systems engineering student at UTN - FRC Universidad Tecnológica Nacional. 
 
 ##  🙋‍♂️ About Me
 21 yo, born and raised in Córdoba Argentina.
